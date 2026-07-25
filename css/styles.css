@@ -1804,6 +1804,29 @@ kbd {
   line-height: 1.5;
 }
 
+.settings-source {
+  margin-top: 17px;
+}
+
+.settings-source strong {
+  display: block;
+  margin-bottom: 4px;
+  font-size: 13px;
+}
+
+.settings-source p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.settings-source a {
+  color: var(--accent-dark);
+  font-weight: 700;
+  text-underline-offset: 2px;
+}
+
 .settings-reset {
   display: grid;
   gap: 12px;
@@ -1831,7 +1854,7 @@ kbd {
   align-items: center;
   justify-content: center;
   gap: 8px;
-  border: 1px solid #e2ada3;
+  border: 1px solid #fff0ec;
   border-radius: 11px;
   background: #fff0ec;
   color: #9c382a;
@@ -2015,7 +2038,7 @@ html[data-theme="dark"] .guide-note {
 
 html[data-theme="dark"] .picker-trash-button,
 html[data-theme="dark"] .reset-program-button {
-  border-color: #74483f;
+  border-color: #3b2823;
   background: #3b2823;
   color: #ffae9c;
 }
