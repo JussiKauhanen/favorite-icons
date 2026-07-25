@@ -5,6 +5,8 @@ runs locally in the browser and no data leaves tot outside sources.
 
 [Open the live page](https://jussikauhanen.github.io/favorite-icons/)
 
+![favorite-icons application](assets/favorite-icons-app.jpg)
+
 ## Features
 
 - 32 × 32 pixel editor with drawing, fill, shape, and color tools
@@ -16,4 +18,3 @@ runs locally in the browser and no data leaves tot outside sources.
 
 Clone the repository and open `index.html` in a browser. No installation or
 build step is required.
-
